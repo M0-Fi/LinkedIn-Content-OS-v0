@@ -61,25 +61,6 @@ Generate 3-5 example posts for each content type that reflect your authentic voi
 3. The system will generate content that matches your authentic voice while optimizing for psychological impact
 4. Review and refine as needed
 
-## File Structure
-├── README.md
-├── Core_Framework/
-│   ├── Context_Profile_Theory_&_Framework.md
-│   ├── Profile_Template_Library.md
-│   └── Question_Framework_Guide.md
-├── Content_Prompts/
-│   ├── linkedin_dumbed_down_prompt.md
-│   ├── linkedin_lead_magnet_prompt.md
-│   ├── linkedin_thought_leader_prompt.md
-│   └── linkedin_value_post_prompt.md
-├── Psychology_Modules/
-│   ├── neural_psychology_matrix.json
-│   ├── persuasion_amplifier.json
-│   └── strategic_copy_architect.json
-└── Your_Generated_Files/
-├── [Your_Context_Profiles]
-└── [Your_Post_Examples]
-
 
 ## Key Features
 
