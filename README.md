@@ -36,11 +36,12 @@ This system leverages Claude AI with specialized prompts and psychological frame
 ### Step 1: Generate Your Context Profiles
 
 1. Upload these three files to Claude:
+   - `Context-Profile-Generator-Instructions.md`
    - `Context_Profile_Theory_&_Framework.md`
    - `Profile_Template_Library.md` 
    - `Question_Framework_Guide.md`
 
-2. Use Claude to create personalized context profile files based on your business, brand voice, marketing strategy, and ideal customer profile.
+3. Ask Claude to 'Start', It'll help you create your own personalized context profile files based on your business, brand voice, marketing strategy, and ideal customer profile.
 
 ### Step 2: Create Post Examples
 
